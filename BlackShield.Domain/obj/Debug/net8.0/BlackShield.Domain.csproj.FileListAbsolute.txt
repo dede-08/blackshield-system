@@ -1,0 +1,11 @@
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\bin\Debug\net8.0\BlackShield.Domain.deps.json
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\bin\Debug\net8.0\BlackShield.Domain.dll
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\bin\Debug\net8.0\BlackShield.Domain.pdb
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\obj\Debug\net8.0\BlackShield.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\obj\Debug\net8.0\BlackShield.Domain.AssemblyInfoInputs.cache
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\obj\Debug\net8.0\BlackShield.Domain.AssemblyInfo.cs
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\obj\Debug\net8.0\BlackShield.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\obj\Debug\net8.0\BlackShield.Domain.dll
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\obj\Debug\net8.0\refint\BlackShield.Domain.dll
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\obj\Debug\net8.0\BlackShield.Domain.pdb
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Domain\obj\Debug\net8.0\ref\BlackShield.Domain.dll

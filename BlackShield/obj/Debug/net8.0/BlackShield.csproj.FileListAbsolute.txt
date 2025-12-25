@@ -1,0 +1,6 @@
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield\obj\Debug\net8.0\BlackShield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield\obj\Debug\net8.0\BlackShield.AssemblyInfoInputs.cache
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield\obj\Debug\net8.0\BlackShield.AssemblyInfo.cs
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield\obj\Debug\net8.0\BlackShield.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield\obj\Debug\net8.0\BlackShield.MvcApplicationPartsAssemblyInfo.cache

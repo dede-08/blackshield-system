@@ -1,0 +1,15 @@
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\bin\Debug\net8.0\BlackShield.Application.deps.json
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\bin\Debug\net8.0\BlackShield.Application.dll
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\bin\Debug\net8.0\BlackShield.Application.pdb
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\bin\Debug\net8.0\BlackShield.Domain.dll
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\bin\Debug\net8.0\BlackShield.Domain.pdb
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\BlackShield.Application.csproj.AssemblyReference.cache
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\BlackShield.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\BlackShield.Application.AssemblyInfoInputs.cache
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\BlackShield.Application.AssemblyInfo.cs
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\BlackShield.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\BlackShi.2458C607.Up2Date
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\BlackShield.Application.dll
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\refint\BlackShield.Application.dll
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\BlackShield.Application.pdb
+C:\Users\Ben\OneDrive\Desktop\repos\BlackShield.Application\obj\Debug\net8.0\ref\BlackShield.Application.dll
